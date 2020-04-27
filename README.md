@@ -1,5 +1,5 @@
 # Class-Routine
-A JAVA BAsed Class Routine Application for [Bangladesh Army University of Engineering & Technology (BAUET).](http://bauet.ac.bd/)
+A JAVA Based Class Routine Application for [Bangladesh Army University of Engineering & Technology (BAUET).](http://bauet.ac.bd/)
 
 ## Developing Tools: 
 
